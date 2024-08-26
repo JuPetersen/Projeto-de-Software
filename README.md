@@ -1,6 +1,6 @@
 # Projeto-de-Software
 
-Olá e bem-vindo à introdução da consultoria da empresa MackTotvs, do grupo "Bug Busters" da sala 04N!
+Olá e bem-vindo à introdução da consultoria da empresa MackTotvs, do grupo "Bug Busters" da sala 04N, composto por Bianca Baise, Júlia Petersen e Rafael de Menezes!
 
 Fomos contratados pela Mobile Eletronics, uma empresa de pequeno porte especializada na venda de produtos eletrônicos, como computadores, smartphones, tablets e acessórios diversos. A empresa realiza atendimentos tanto online quanto físicos e tem experimentado um crescimento significativo em vendas e expansão do catálogo de produtos.
 
